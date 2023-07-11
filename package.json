@@ -13,7 +13,7 @@
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.9",
     "web-vitals": "^2.1.4",
-    "homepage": "http://{rv-amberh}.github.io/{Image_Detection}"
+    "homepage": "http://{rv-amberh}.github.io/Image_Detection"
   },
   "scripts": {
     "start": "react-scripts start",
